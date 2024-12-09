@@ -1,1 +1,1 @@
-# NewProject
+# newProject
